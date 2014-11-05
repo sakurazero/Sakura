@@ -1,4 +1,0 @@
-Sakura
-======
-
-Sample App 
